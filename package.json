@@ -1,6 +1,6 @@
 {
   "name": "hapi-graceful-shutdown",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hapi Graceful Server Shutdown",
   "main": "lib/index.js",
   "scripts": {
