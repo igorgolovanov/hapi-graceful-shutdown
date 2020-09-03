@@ -30,7 +30,7 @@
   "devDependencies": {
     "@hapi/code": "6.x.x",
     "@hapi/lab": "20.x.x",
-    "@hapi/hapi": "18.x.x"
+    "@hapi/hapi": "19.x.x"
   },
   "homepage": "https://github.com/igorgolovanov/hapi-graceful-shutdown#readme"
 }
