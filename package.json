@@ -24,7 +24,7 @@
     "url": "https://github.com/igorgolovanov/hapi-graceful-shutdown/issues"
   },
   "dependencies": {
-    "@hapi/hoek": "8.x.x",
+    "@hapi/hoek": "9.x.x",
     "@hapi/joi": "16.x.x"
   },
   "devDependencies": {
